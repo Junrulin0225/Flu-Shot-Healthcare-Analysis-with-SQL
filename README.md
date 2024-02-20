@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1KUa8VHVtNdgMmX2n7Vla6Wt-HxgRgR4L/view?usp=shari
 - By joining 2 files (immunization & patients), I can see all the patients who got their flu shots.
 - I can see the total percentage of patients getting flu shots according to age, race, and county.
 
-##### Data Visualization with Tableau
+##### Data Visualization with Tableau 👉  https://public.tableau.com/app/profile/jun.ru.dizon/viz/Book2_17056160863880/flushotdashboard
 - 4023 flu shots were given to patients in 2022.
 - Patients between 50 to 64 years old had the highest flu shot rate in 2022.
 - In 2022, Native Americans had the highest flu shot rate compared to other races.
